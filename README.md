@@ -13,4 +13,4 @@ I am an interpreting student transitioning into **Cloud Security Engineering**, 
 ---
 
 ### 📂 Repository Roadmap
-* **[python-network-scripts](https://github.com/Elslam/python-network-scripts)** — My portfolio of functional security scripts, parsers, and auditors.
+* **[cloud-security-automation-kit](https://github.com/Elslam/cloud-security-automation-kit)** — My portfolio of functional cloud security scripts, parsers, and automation utilities.
